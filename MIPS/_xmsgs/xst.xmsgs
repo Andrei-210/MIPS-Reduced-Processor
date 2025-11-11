@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="unknown" >Unit <arg fmt="%s" index="1">work/ROM32x32</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ROM32x32.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ROM32x32_BEQ.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="unknown" >Unit <arg fmt="%s" index="1">work/ROM32x32/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ROM32x32.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ROM32x32_BEQ.vhd</arg>&quot;.
+</msg>
+
+</messages>
+
