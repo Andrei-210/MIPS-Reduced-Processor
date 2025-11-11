@@ -96,5 +96,5 @@ Interface with peripherals (LEDs, UART, etc.)
 Migrate to Vivado with updated IP cores
 
 ## Author
-Nicoli Andrei - Claudiu
-Third-year student at University of Craiova, Faculty of Automatics, Computer Science and Engineering
+- Nicoli Andrei - Claudiu
+- Third-year student at University of Craiova, Faculty of Automatics, Computer Science and Engineering
