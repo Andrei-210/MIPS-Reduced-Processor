@@ -1,0 +1,6 @@
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/andre/Desktop/LAB_5_SOC/MIPS/Ceva.sch" Ceva.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/andre/Desktop/LAB_5_SOC/MIPS/Ceva.sch" Ceva.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/Ceva.sch" Ceva.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/Ceva.sch" Ceva.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/Ceva.sch" Ceva.vhf
+sch2vhdl -intstyle ise -family spartan3 -flat -suppress -w "C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/Ceva.sch" Ceva.vhf
