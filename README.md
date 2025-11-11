@@ -56,8 +56,7 @@ Mips/
 ├── ROM32x32.vhd        # 32-word Instruction ROM
 ├── PC_Update.vhd       # Program Counter logic
 ├── tb_mips.tbw         # Testbench for simulation
-├── MIPS.ise            # Main Xilinx ISE project file
-└── results/            # Simulation results and waveforms
+└── MIPS.ise            # Main Xilinx ISE project file
 ```
 ## Simulation
 You can run the simulation in Xilinx ISE using the testbench:
