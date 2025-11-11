@@ -43,6 +43,7 @@ rep:
   beq $0, $0, rep   # branch to rep (infinite loop)
 ```
 ## Project Structure
+```
 Mips/
 ├── asm/                # Assembly files and related data
 ├── templates/          # Xilinx templates and configs
@@ -57,7 +58,7 @@ Mips/
 ├── tb_mips.tbw         # Testbench for simulation
 ├── MIPS.ise            # Main Xilinx ISE project file
 └── results/            # Simulation results and waveforms
-
+```
 ## Simulation
 You can run the simulation in Xilinx ISE using the testbench:
 tb_mips.tbw
@@ -68,7 +69,7 @@ The waveform visualization shows:
   - Branching behavior for beq
 
 ## Architecture Overview
-
+```
 +-------------------+
 |     Control       |
 | (Instruction Dec) |
@@ -87,7 +88,7 @@ The waveform visualization shows:
 +-------------------+                       |
 |      ROM 32x32    |-----------------------+
 +-------------------+
-
+```
 ## Possible Improvements
 Add a 5-stage pipeline (IF, ID, EX, MEM, WB)
 Implement additional instructions (addi, bne, slt, j, jal)
