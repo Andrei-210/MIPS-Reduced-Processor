@@ -1,0 +1,75 @@
+V3 46
+FL C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/Ceva.vhf 2025/04/09.00:07:23 J.40
+EN work/Ceva 1744146444 FL C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/Ceva.vhf \
+      PB ieee/std_logic_1164 1192821031 PH ieee/NUMERIC_STD 1192821033 LB UNISIM \
+      PH unisim/VCOMPONENTS 1194566982
+AR work/Ceva/BEHAVIORAL 1744146445 \
+      FL C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/Ceva.vhf EN work/Ceva 1744146444 \
+      CP ALU CP ctrl CP DataMem CP MUX2V32 CP MUX2V5 CP PC_Update CP ProgCnt \
+      CP File_Regs CP ROM32x32
+FL C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/File_Regs.vhd 2025/04/08.23:00:40 J.40
+EN work/File_Regs 1744142888 \
+      FL C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/File_Regs.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/File_Regs/Behavioral 1744142889 \
+      FL C:/Users/andre/Desktop/LAB6_SOC(LAB6)/MIPS/File_Regs.vhd \
+      EN work/File_Regs 1744142888
+FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ALU.vhd 2025/04/14.23:51:59 J.40
+EN work/ALU 1744663931 FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ALU.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ALU/Behavioral 1744663932 \
+      FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ALU.vhd EN work/ALU 1744663931
+FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ctrl.vhdl 2025/04/15.01:09:33 J.40
+EN work/ctrl 1744668578 FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ctrl.vhdl \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ctrl/Behavioral 1744668579 \
+      FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ctrl.vhdl EN work/ctrl 1744668578
+FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/PC_Update.vhd 2025/04/15.00:14:26 J.40
+EN work/PC_Update 1744665284 \
+      FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/PC_Update.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/PC_Update/Behavioral 1744665285 \
+      FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/PC_Update.vhd \
+      EN work/PC_Update 1744665284
+FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ROM32x32_BEQ.vhd 2025/04/15.20:41:26 J.40
+EN work/ROM32x32 1744738903 \
+      FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ROM32x32_BEQ.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x32/Behavioral 1744738904 \
+      FL C:/Users/andre/Desktop/LAB8_SOC(LAB8)/MIPS/ROM32x32_BEQ.vhd \
+      EN work/ROM32x32 1744738903
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ALU.vhd 2025/03/25.23:37:54 J.40
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/Ceva.vhf 2025/03/26.00:41:44 J.40
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ctrl.vhdl 2025/03/26.00:20:59 J.40
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/DataMem.vhd 2025/03/26.00:03:02 J.40
+EN work/DataMem 1742940281 FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/DataMem.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/DataMem/Behavioral 1742940282 \
+      FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/DataMem.vhd EN work/DataMem 1742940281
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/File_Regs.vhd 2025/03/26.01:22:55 J.40
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/MUX2V32.vhd 2025/03/26.00:00:04 J.40
+EN work/MUX2V32 1742940648 FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/MUX2V32.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/MUX2V32/Behavioral 1742940649 \
+      FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/MUX2V32.vhd EN work/MUX2V32 1742940648
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/MUX2V5.vhd 2025/03/19.22:46:02 J.40
+EN work/MUX2V5 1742417185 FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/MUX2V5.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/MUX2V5/Behavioral 1742417186 \
+      FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/MUX2V5.vhd EN work/MUX2V5 1742417185
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/PC_Update.vhd 2025/03/19.22:06:25 J.40
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ProgCnt.vhd 2025/03/19.22:06:21 J.40
+EN work/ProgCnt 1742414871 FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ProgCnt.vhd \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ProgCnt/Behavioral 1742414872 \
+      FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ProgCnt.vhd EN work/ProgCnt 1742414871
+FL C:/Users/andre/Desktop/LAB_5_SOC/MIPS/ROM32x32.vhd 2025/03/19.22:31:35 J.40
